@@ -1,16 +1,27 @@
 # pharmacy
 
-A new Flutter project.
 
-## Getting Started
+pharmacy is a cross-platfrom demo application built with Flutter.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+- login
+- registration
+- forgot password
+- home
+- product resource(pdf,video,image)
+- google map marker(for hospital)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+  <img src="https://github.com/Toufiqulhaquemamun/pharmacy/blob/main/scrnshot/Screenshot_20220905_104955.jpg" width="30%" height="50%" /> 
+  <img src="https://github.com/Toufiqulhaquemamun/pharmacy/blob/main/scrnshot/Screenshot_20220905_105022.jpg" width="30%" height="50%"/>
+  <img src="https://github.com/Toufiqulhaquemamun/pharmacy/blob/main/scrnshot/Screenshot_20220905_105153.jpg" width="30%" height="50%"/>
+  <img src="https://github.com/Toufiqulhaquemamun/pharmacy/blob/main/scrnshot/Screenshot_20220905_105217.jpg" width="30%" height="50%"/>
+  <img src="https://github.com/Toufiqulhaquemamun/pharmacy/blob/main/scrnshot/Screenshot_20220905_105254.jpg" width="30%" height="50%"/>
+  <img src="https://github.com/Toufiqulhaquemamun/pharmacy/blob/main/scrnshot/Screenshot_20220905_105302.jpg" width="30%" height="50%"/>
+  <img src="https://github.com/Toufiqulhaquemamun/pharmacy/blob/main/scrnshot/Screenshot_20220905_105309.jpg" width="30%" height="50%"/>
+  <img src="https://github.com/Toufiqulhaquemamun/pharmacy/blob/main/scrnshot/Screenshot_20220905_105328.jpg" width="30%" height="50%"/>
+
+</p>
+
