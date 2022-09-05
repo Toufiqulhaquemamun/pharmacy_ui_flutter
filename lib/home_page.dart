@@ -473,10 +473,7 @@ class _TabsState extends State<Tabs> {
       return BottomNavigationBarItem(
         icon: Icon(icon),
         activeIcon: Icon(activeIcon, size: 35),
-        title: Padding(
-          padding: const EdgeInsets.only(top: 5),
-          child: Text(label, style: labelStyle),
-        ),
+        label: label,
       );
     }
 
